@@ -37,7 +37,7 @@
 
 Затем мы посмотрели, какие категории популярны у разных сегментов покупателей и выписали самые сильные корреляции.
 
-
+![Матрица корреляции между сегментами пользователей и категориями покупок](https://github.com/alexander-saushev/data_analysis_projects/blob/main/14_ecom_customer_segmentation/03_segment_category_correlation.png)
 
 ### Используемые библиотеки
 
