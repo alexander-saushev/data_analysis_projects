@@ -10,6 +10,7 @@
 
 База данных об авиаперевозках состоит из нескольких таблиц. Вот ее схема:
 
+![ER-диаграмма базы данных авиакомпании](https://github.com/alexander-saushev/data_analysis_projects/blob/main/06_air_tourism_analysis/01_er_diagram.jpeg)
 
 ### Ход работы
 
