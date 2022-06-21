@@ -6,7 +6,7 @@
 
 ### Схема базы данных
 
-
+![ER-диаграмма базы данных книжного сервиса](https://github.com/alexander-saushev/data_analysis_projects/blob/main/13_book_service_adhoc_sql/er_diagram.png)
 
 ### Используемые инструменты
 
