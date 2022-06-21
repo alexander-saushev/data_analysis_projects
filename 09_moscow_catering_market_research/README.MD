@@ -26,6 +26,8 @@
 
 ### Выводы
 
+Мы подготовили [презентацию](https://github.com/alexander-saushev/data_analysis_projects/blob/main/09_moscow_catering_market_research/02_moscow_catering_market_results.pdf) с результатами исследования. Вот общие выводы из него:
+
 1. Почти 40% рынка занимают кафе. Еще 45% примерно поровну делят
 столовые, рестораны и предприятия быстрого обслуживания.
 Остальных заведений гораздо меньше.
