@@ -2,7 +2,7 @@
 
 [Посмотреть дашборд в Tableu Public](https://public.tableau.com/app/profile/alexander.saushev/viz/__16202197496380/_?publish=yes)
 
-Посмотреть презентацию с анализом графиков
+[Посмотреть презентацию с анализом графиков](https://github.com/alexander-saushev/data_analysis_projects/blob/main/11_dzen_dashbord/02_dashboard_conclusions.pdf)
 
 ### Задача
 
