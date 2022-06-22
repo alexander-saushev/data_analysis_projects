@@ -1,5 +1,7 @@
 # Аналитика Яндекс.Афиши
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/07_yandex_afisha_product_research/yandex_afisha_product_research.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/07_yandex_afisha_product_research/yandex_afisha_product_research.ipynb).
+
 ### Задача
 
 Нам надо помочь маркетологам Яндекс.Афиши снизить расходы — отказаться от невыгодных источников трафика и перераспределить бюджет.

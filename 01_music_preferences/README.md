@@ -1,5 +1,7 @@
 # Музыка больших городов
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/01_music_preferences/music_preferences.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/01_music_preferences/music_preferences.ipynb).
+
 ### Задача
 
 Исследовать музыкальные предпочтения пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга.

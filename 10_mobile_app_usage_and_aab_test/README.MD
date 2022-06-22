@@ -1,5 +1,7 @@
 # Исследование поведения пользователей мобильного приложения для стартапа по доставке продуктов
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/10_mobile_app_usage_and_aab_test/mobile_app_usage_and_aab_test.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/10_mobile_app_usage_and_aab_test/mobile_app_usage_and_aab_test.ipynb).
+
 ### Задача
 
 Мы помогаем с аналитикой стартапу, который продает продукты питания. Нужно разобраться, как ведут себя пользователи мобильного приложения.

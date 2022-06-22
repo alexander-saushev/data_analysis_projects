@@ -1,5 +1,7 @@
 # Исследование факторов, определяющих успешность видеоигр
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/05_gaming_market_analysis/05_gaming_market_analysis.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/05_gaming_market_analysis/05_gaming_market_analysis.ipynb).
+
 ### Задача
 
 Этот проект — исследование для интернет-магазина «Стримчик», который продает по всему миру компьютерные игры. Нам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.

@@ -1,5 +1,7 @@
 # Сегментация пользователей интернет-магазина для таргетинга
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/14_ecom_customer_segmentation/01_ecom_customer_segmentation.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/14_ecom_customer_segmentation/01_ecom_customer_segmentation.ipynb).
+
 ### Задача
 
 Интернет-магазин «Пока все ещё тут» продает товары для дома и быта. Нам надо сегментировать его покупателей.

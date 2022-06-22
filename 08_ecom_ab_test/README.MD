@@ -1,5 +1,7 @@
 # Aнализ A/B-теста интернет-магазина
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/08_ecom_ab_test/ecom_ab_test.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/08_ecom_ab_test/ecom_ab_test.ipynb).
+
 ### Задача
 
 Мы помогаем с аналитикой крупному интернет-магазину. Вместе с отделом маркетинга мы подготовили список гипотез для увеличения выручки.

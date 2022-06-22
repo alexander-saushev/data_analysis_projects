@@ -1,5 +1,7 @@
 # Предсказание оттока и кластеризация клиентов фитнес-центра
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/12_gym_churn_prediction_and_clustering/gym_churn_prediction_and_clustering.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/12_gym_churn_prediction_and_clustering/gym_churn_prediction_and_clustering.ipynb).
+
 ### Задача
 
 Сеть фитнес-центров «Культурист-датасаентист» разрабатывает стратегию взаимодействия с клиентами на основе аналитических данных. Одна из задач, которую хочет решить сеть — отток клиентов. Наша задача — провести анализ и подготовить план действий по удержанию клиентов.

@@ -1,5 +1,7 @@
 # Исследование рынка заведений общественного питания Москвы
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/09_moscow_catering_market_research/01_moscow_catering_market_research.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/09_moscow_catering_market_research/01_moscow_catering_market_research.ipynb).
+
 ### Задача
 
 Мы хотим открыть небольшое кафе в Москве. Оно будет оригинальным — гостей должны обслуживать роботы. Проект многообещающий, но дорогой. Вместе с партнерами мы решились обратиться к инвесторам. Их интересует текущее положение дел на рынке — сможем ли мы снискать популярность на долгое время, когда все зеваки насмотрятся на роботов-официантов?

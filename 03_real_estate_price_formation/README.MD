@@ -1,5 +1,7 @@
 # Исследование объявлений о продаже квартир
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/data_analysis_projects/blob/main/03_real_estate_price_formation/real_estate_price_formation.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/data_analysis_projects/blob/main/03_real_estate_price_formation/real_estate_price_formation.ipynb).
+
 ### Задача
 
 Команда Яндекс.Недвижимости предоставила нам архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нам нужно понять, от каких параметров недвижимости зависит ее цена. Эта информация будет использована при построении модели отслеживания аномалий и мошеннической деятельности.
